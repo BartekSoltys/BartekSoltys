@@ -5,8 +5,8 @@
 [![@bartek's Holopin board](https://holopin.io/api/user/board?user=bartek)](https://holopin.io/@bartek)
 <sup>*Check out my fancy new digital badge board over at [Holopin](https://www.holopin.io/@bartek)! 💕*</sup>
 
-💻 Creative Computing Student at Goldsmiths University of London<br/>
-🏫 I'm currently learning how to build Android and iOS apps<br/>
+💻 Freelance Android Developer<br/>
+🏫 Studied Creative Computing at Goldsmiths University of London<br/>
 🧑🏻 Pronouns: he/him<br/>
 
 
